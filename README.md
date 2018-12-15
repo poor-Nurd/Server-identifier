@@ -12,6 +12,8 @@ Tera proxy mod , simply it shows the name of other people server (EU).
        For example : if you in Killian it will sohw [Mystel,Yurian,Seren]
           
 
-
 * <strong>Bugs</strong> :
  1 : Unable to trade nor invite 
+
+
+UPDATED BETTER VERSION WILL BE OUT SOON 

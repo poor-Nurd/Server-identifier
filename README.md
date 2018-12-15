@@ -2,6 +2,7 @@
 Tera proxy mod , simply it shows the name of other people server (EU).
 
 ![alt text](https://i.imgur.com/F4bKSem.png)
+![alt text](https://i.imgur.com/23y2QHf.png)
 
  ######### Command ########
  

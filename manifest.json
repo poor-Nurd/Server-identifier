@@ -1,0 +1,10 @@
+{
+	"files": {
+		"index.js": "ad4a59aff946fb1c414e057e38e2e5fa2b63a204fef926eba23e565dd448f87c",
+		"module.json": "0d7a789a3ec597f1831ed14b0416fd764772f36b8504c7e05c396b5d79180514"
+	},
+	"defs": {
+		"S_LOAD_TOPO": 3,
+		"S_SPAWN_USER": 13
+	}
+}

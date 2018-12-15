@@ -1,7 +1,7 @@
 {
 	"files": {
-		"index.js": "ad4a59aff946fb1c414e057e38e2e5fa2b63a204fef926eba23e565dd448f87c",
-		"module.json": "0d7a789a3ec597f1831ed14b0416fd764772f36b8504c7e05c396b5d79180514"
+		"index.js": "67616bf1dc4b8a483c4617ff1da910dbf073cefb9d121423130670174ab22746",
+		"settings_migrator.js": "0b15a07833baaac0f75ac3beb510ce198346ecc870c3182f5098e9c9ace44dd2"
 	},
 	"defs": {
 		"S_LOAD_TOPO": 3,

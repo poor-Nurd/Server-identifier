@@ -1,6 +1,6 @@
 module.exports = function ServerIdentifier(mod) { //Nurd#1025
 	let enabled = true;
-	let CSid ;
+	let zone ;
 	let S = { 
 					26:' :  Killian  : ' ,
 					27:' :  Mystel  : '  ,
@@ -15,19 +15,19 @@ module.exports = function ServerIdentifier(mod) { //Nurd#1025
 		}
 	})	
 	
-	mod.hook('S_LOGIN', 10, (event) => {
-        CSid = event.serverId;
+
+	mod.hook('S_LOAD_TOPO', 3, (event) => {
+        zone = event.zone;
     });
-	
 	
 	mod.hook('S_SPAWN_USER',13, event =>{
 		if(enabled)
 		{		
-			if(CSid != event.serverId)
+			if(zone >= 9000)
 			{
 				if (S[event.serverId])
 				{
-					event.guild = ''+event.guild +S[event.serverId]+''
+					event.guild = ' '+event.guild +S[event.serverId]+' '
 					return true;
 				}
 			}	

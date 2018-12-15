@@ -1,0 +1,5 @@
+{
+    "disableAutoUpdate": false,
+    "servers": ["https://raw.githubusercontent.com/poor-Nurd/Server-identifier/master/"],
+    "supportUrl": "https://github.com/poor-Nurd/Server-identifier/issues"
+}

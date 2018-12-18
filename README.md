@@ -13,3 +13,6 @@ Tera proxy mod , simply it shows the name of other people server (EU).
     *   Bug fixed
 
  
+ 
+ * <strong> Download - SaltyMonkey - mod instead , it has better functions </strong>
+           https://github.com/SaltyMonkey/server-exposer

@@ -1,9 +1,5 @@
-"use strict"
-
 const DefaultSettings = {
     "enabled": true,
-    "keep_resurrection_invincibility": false,
-    "interval": 1000,
 }
 
 module.exports = function MigrateSettings(from_ver, to_ver, settings) {
